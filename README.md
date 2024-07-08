@@ -1,5 +1,3 @@
 # Numerical methods applied to physics problems in Python
 
-Part of a course at UofC. Only sections uploaded are written by me.
-
-Course number and all UofC materials removed to prevent academic misconduct from other students in future versions of the course.
+Part of Physics Computational Physics I, Phys 381, from University of Calgary. Only sections uploaded are written by me.
